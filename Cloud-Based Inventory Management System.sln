@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud-Based Inventory Management System", "Cloud-Based Inventory Management System\Cloud-Based Inventory Management System.csproj", "{1F922677-9696-4D91-9509-40315E64319F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F922677-9696-4D91-9509-40315E64319F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F922677-9696-4D91-9509-40315E64319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F922677-9696-4D91-9509-40315E64319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F922677-9696-4D91-9509-40315E64319F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74BFAD2-6EFD-42B4-9901-4814B3FAB14D}
+	EndGlobalSection
+EndGlobal
